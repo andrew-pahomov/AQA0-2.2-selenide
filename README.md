@@ -1,3 +1,1 @@
-
-
-
+[![Java CI with Gradle](https://github.com/andrew-pahomov/AQA0-2.2-selenide/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/andrew-pahomov/AQA0-2.2-selenide/actions/workflows/gradle.yml)
